@@ -16,7 +16,7 @@ Create an LVM physical volume on top of `/dev/vdb`.
 pvcreate /dev/vdb
 ```
 
-Next, create a volume group called `vg-mirorr` using `/dev/vdb`.
+Next, create a volume group called `vg-mirror` using `/dev/vdb`.
 
 ```
 vgcreate vg-mirror /dev/vdb

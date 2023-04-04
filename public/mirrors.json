@@ -59,6 +59,17 @@
         },
 
         {
+            "distro" : "Manjaro Linux",
+            "description" : "Manjaro is an Arch-based Linux operating system that has a focus on user-friendliness and accessibility.",
+            "logo" : "https://mirror.cloud.mu/images/distro/manjarolinux.png",
+            "http" : "http://manjarolinux-mirror.cloud.mu",
+            "https" : "https://manjarolinux-mirror.cloud.mu",
+            "arch" : [
+                "x86_64"
+            ]
+        },
+
+        {
             "distro" : "openSUSE",
             "description" : "The openSUSE distribution is a stable, easy to use and complete multi-purpose distribution. It is aimed towards users and developers working on the desktop or server. It is great for beginners, experienced users and ultra geeks alike, in short, it is perfect for everybody!",
             "logo" : "https://mirror.cloud.mu/images/distro/opensuse.svg",

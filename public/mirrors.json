@@ -34,6 +34,17 @@
                 "x86_64"
             ]
         },
+        {
+            "distro" : "EndeavourOS",
+            "description" : "EndeavourOS is a Linux distribution based on Arch Linux. EndeavourOS features the graphical Calamares installer capable of installing the Xfce, Budgie, Cinnamon, GNOME, i3, KDE Plasma 5, LXQt, and MATE desktop environments, the former of which can be installed without an Internet connection.",
+            "logo" : "https://mirror.cloud.mu/images/distro/endeavouros.png",
+            "http" : "http://endeavouros-mirror.cloud.mu",
+            "https" : "https://endeavouros-mirror.cloud.mu",
+            "arch" : [
+                "aarch64",
+                "x86_64"
+            ]
+        },
 
         {
             "distro" : "Fedora",

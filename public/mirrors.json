@@ -1,12 +1,12 @@
 {
-    "data" : [
+    "data": [
         {
-            "distro" : "AlmaLinux",
-            "description" : "An open source, community owned and governed, forever-free enterprise Linux distribution, focused on long-term stability, providing a robust production-grade platform. AlmaLinux OS is 1:1 binary compatible with RHEL® and pre-Stream CentOS.",
-            "logo" : "https://mirror.cloud.mu/images/distro/almalinux.svg",
-            "http" : "http://almalinux-mirror.cloud.mu",
-            "https" : "https://almalinux-mirror.cloud.mu",
-            "arch" : [
+            "distro": "AlmaLinux",
+            "description": "An open source, community owned and governed, forever-free enterprise Linux distribution, focused on long-term stability, providing a robust production-grade platform. AlmaLinux OS is 1:1 binary compatible with RHEL® and pre-Stream CentOS.",
+            "logo": "https://mirror.cloud.mu/images/distro/almalinux.svg",
+            "http": "http://almalinux-mirror.cloud.mu",
+            "https": "https://almalinux-mirror.cloud.mu",
+            "arch": [
                 "aarch64",
                 "ppc64le",
                 "s390x",
@@ -14,91 +14,86 @@
             ]
         },
         {
-            "distro" : "Arch Linux",
-            "description" : "Arch Linux is an independently developed, x86-64 general-purpose GNU/Linux distribution that strives to provide the latest stable versions of most software by following a rolling-release model.",
-            "logo" : "https://mirror.cloud.mu/images/distro/archlinux.png",
-            "http" : "http://archlinux-mirror.cloud.mu",
-            "https" : "https://archlinux-mirror.cloud.mu",
-            "arch" : [
+            "distro": "Arch Linux",
+            "description": "Arch Linux is an independently developed, x86-64 general-purpose GNU/Linux distribution that strives to provide the latest stable versions of most software by following a rolling-release model.",
+            "logo": "https://mirror.cloud.mu/images/distro/archlinux.png",
+            "http": "http://archlinux-mirror.cloud.mu",
+            "https": "https://archlinux-mirror.cloud.mu",
+            "arch": [
                 "x86_64"
             ]
         },
         {
-            "distro" : "Debian",
-            "description" : "Debian is a Linux-based operating system for a wide range of devices including laptops, desktops and servers. Most hardware is supported by the Linux kernel which means that Debian will support it as well. Proprietary drivers for hardware are available if necessary.",
-            "logo" : "https://mirror.cloud.mu/images/distro/debian.svg",
-            "http" : "http://debian-mirror.cloud.mu",
-            "https" : "https://debian-mirror.cloud.mu",
-            "arch" : [
+            "distro": "Debian",
+            "description": "Debian is a Linux-based operating system for a wide range of devices including laptops, desktops and servers. Most hardware is supported by the Linux kernel which means that Debian will support it as well. Proprietary drivers for hardware are available if necessary.",
+            "logo": "https://mirror.cloud.mu/images/distro/debian.svg",
+            "http": "http://debian-mirror.cloud.mu",
+            "https": "https://debian-mirror.cloud.mu",
+            "arch": [
                 "aarch64",
                 "x86_64"
             ]
         },
         {
-            "distro" : "EndeavourOS",
-            "description" : "EndeavourOS is a Linux distribution based on Arch Linux. EndeavourOS features the graphical Calamares installer capable of installing the Xfce, Budgie, Cinnamon, GNOME, i3, KDE Plasma 5, LXQt, and MATE desktop environments, the former of which can be installed without an Internet connection.",
-            "logo" : "https://mirror.cloud.mu/images/distro/endeavouros.png",
-            "http" : "http://endeavouros-mirror.cloud.mu",
-            "https" : "https://endeavouros-mirror.cloud.mu",
-            "arch" : [
+            "distro": "EndeavourOS",
+            "description": "EndeavourOS is a Linux distribution based on Arch Linux. EndeavourOS features the graphical Calamares installer capable of installing the Xfce, Budgie, Cinnamon, GNOME, i3, KDE Plasma 5, LXQt, and MATE desktop environments, the former of which can be installed without an Internet connection.",
+            "logo": "https://mirror.cloud.mu/images/distro/endeavouros.png",
+            "http": "http://endeavouros-mirror.cloud.mu",
+            "https": "https://endeavouros-mirror.cloud.mu",
+            "arch": [
                 "aarch64",
                 "x86_64"
             ]
         },
-
         {
-            "distro" : "Fedora",
-            "description" : "The Fedora Project is a community of people working together to build a free and open source software platform and to collaborate on and share user-focused solutions built on that platform. Or, in plain English, we make an operating system and we make it easy for you to do useful stuff with it.",
-            "logo" : "https://mirror.cloud.mu/images/distro/fedora.svg",
-            "http" : "http://fedora-mirror.cloud.mu",
-            "https" : "https://fedora-mirror.cloud.mu",
-            "arch" : [
+            "distro": "Fedora",
+            "description": "The Fedora Project is a community of people working together to build a free and open source software platform and to collaborate on and share user-focused solutions built on that platform. Or, in plain English, we make an operating system and we make it easy for you to do useful stuff with it.",
+            "logo": "https://mirror.cloud.mu/images/distro/fedora.svg",
+            "http": "http://fedora-mirror.cloud.mu",
+            "https": "https://fedora-mirror.cloud.mu",
+            "arch": [
                 "aarch64",
                 "x86_64"
             ]
         },
-
         {
-            "distro" : "Linux Mint",
-            "description" : "Linux Mint is an operating system for desktop and laptop computers. It is designed to work 'out of the box' and comes fully equipped with the apps most people need. It is based on Ubuntu LTS and has a Debian spin called LMDE.",
-            "logo" : "https://mirror.cloud.mu/images/distro/linuxmint.svg",
-            "http" : "http://linuxmint-mirror.cloud.mu",
-            "https" : "https://linuxmint-mirror.cloud.mu",
-            "arch" : [
+            "distro": "Linux Mint",
+            "description": "Linux Mint is an operating system for desktop and laptop computers. It is designed to work 'out of the box' and comes fully equipped with the apps most people need. It is based on Ubuntu LTS and has a Debian spin called LMDE.",
+            "logo": "https://mirror.cloud.mu/images/distro/linuxmint.svg",
+            "http": "http://linuxmint-mirror.cloud.mu",
+            "https": "https://linuxmint-mirror.cloud.mu",
+            "arch": [
                 "x86_64"
             ]
         },
-
         {
-            "distro" : "Manjaro Linux",
-            "description" : "Manjaro is an Arch-based Linux operating system that has a focus on user-friendliness and accessibility.",
-            "logo" : "https://mirror.cloud.mu/images/distro/manjarolinux.png",
-            "http" : "http://manjarolinux-mirror.cloud.mu",
-            "https" : "https://manjarolinux-mirror.cloud.mu",
-            "arch" : [
+            "distro": "Manjaro Linux",
+            "description": "Manjaro is an Arch-based Linux operating system that has a focus on user-friendliness and accessibility.",
+            "logo": "https://mirror.cloud.mu/images/distro/manjarolinux.png",
+            "http": "http://manjarolinux-mirror.cloud.mu",
+            "https": "https://manjarolinux-mirror.cloud.mu",
+            "arch": [
                 "x86_64"
             ]
         },
-
         {
-            "distro" : "openSUSE",
-            "description" : "The openSUSE distribution is a stable, easy to use and complete multi-purpose distribution. It is aimed towards users and developers working on the desktop or server. It is great for beginners, experienced users and ultra geeks alike, in short, it is perfect for everybody!",
-            "logo" : "https://mirror.cloud.mu/images/distro/opensuse.svg",
-            "http" : "http://mirror.opensuse.mu",
-            "https" : "https://mirror.opensuse.mu",
-            "arch" : [
+            "distro": "openSUSE",
+            "description": "The openSUSE distribution is a stable, easy to use and complete multi-purpose distribution. It is aimed towards users and developers working on the desktop or server. It is great for beginners, experienced users and ultra geeks alike, in short, it is perfect for everybody!",
+            "logo": "https://mirror.cloud.mu/images/distro/opensuse.svg",
+            "http": "http://mirror.opensuse.mu",
+            "https": "https://mirror.opensuse.mu",
+            "arch": [
                 "aarch64",
                 "x86_64"
             ]
         },
-
         {
-            "distro" : "Ubuntu",
-            "description" : "Ubuntu is a Linux-based operating system. It is designed for computers, smartphones, and network servers. The system is developed by a UK based company called Canonical Ltd. All the principles used to develop the Ubuntu software are based on the principles of Open Source software development.",
-            "logo" : "https://mirror.cloud.mu/images/distro/ubuntu.svg",
-            "http" : "http://ubuntu-mirror.cloud.mu",
-            "https" : "https://ubuntu-mirror.cloud.mu",
-            "arch" : [
+            "distro": "Ubuntu",
+            "description": "Ubuntu is a Linux-based operating system. It is designed for computers, smartphones, and network servers. The system is developed by a UK based company called Canonical Ltd. All the principles used to develop the Ubuntu software are based on the principles of Open Source software development.",
+            "logo": "https://mirror.cloud.mu/images/distro/ubuntu.svg",
+            "http": "http://ubuntu-mirror.cloud.mu",
+            "https": "https://ubuntu-mirror.cloud.mu",
+            "arch": [
                 "arm64",
                 "armhf",
                 "powerpc",
@@ -107,17 +102,14 @@
             ]
         }
     ],
-
-    "admins" : [
+    "admins": [
         "Girish Luckhun",
         "Ish Sookun",
         "Jain Ramchurn"
     ],
-
-    "name" : "Linux mirrors in Mauritius",
-    "url" : "https://mirror.cloud.mu",
-    "email" : "mirror-admin@lists.mixp.org",
-
-    "sponsor" : "cloud.mu",
-    "sponsor_url" : "https://cloud.mu"
+    "name": "Linux mirrors in Mauritius",
+    "url": "https://mirror.cloud.mu",
+    "email": "mirror-admin@lists.mixp.org",
+    "sponsor": "cloud.mu",
+    "sponsor_url": "https://cloud.mu"
 }
